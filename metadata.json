@@ -1,0 +1,8 @@
+{
+  "name": "Địa Lí 10 - Kiểm Tra Đánh Giá Bài 2",
+  "description": "Ứng dụng kiểm tra, đánh giá thường xuyên môn Địa Lí 10 Bài 2: Một số phương pháp biểu hiện trên bản đồ với 4 dạng thức tương tác và hệ thống quản lý kết quả học sinh dành cho giáo viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
